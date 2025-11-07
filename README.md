@@ -5,7 +5,7 @@
 
 This is a basic drawing application for Android, built entirely in Java. It serves as an educational project to demonstrate core concepts of Android development, including custom views, touch event handling, and object-oriented principles.
 
-This project was likely created for a "Mobile Programming" university course.
+This project was likely created for a **"Mobile Programming Web Service"** university course
 
 ## ✨ Features
 
